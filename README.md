@@ -1,2 +1,2 @@
-# hackathons
-Innoplexus Online Hiring Hackathon Solution
+# Hackathons
+Repository with my hackathon solutions
