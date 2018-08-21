@@ -1,6 +1,4 @@
-<style>
-a.link_style01:{text-decoration: underline;}
-</style>
+<style>a.link_style01:{text-decoration: underline;}</style>
 
 
 # Innoplexus Online Hiring Hackathon
