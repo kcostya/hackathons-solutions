@@ -1,4 +1,7 @@
-a.link_style01:{color: text-decoration: underline;}
+<style>
+a.link_style01:{text-decoration: underline;}
+</style>
+
 
 # Innoplexus Online Hiring Hackathon
 ## Artificial Intelligence (AI) Challenge
