@@ -1,6 +1,5 @@
 # Hackathons
 Repository with my hackathon solutions<br>
-<a href="https://github.com/kcostya/hackathons-solutions/tree/master/innoplexus">Innoplexus Online Hiring Hackathon</a>
-
-<a href="https://github.com/kcostya/hackathons-solutions/tree/master/linguipedia">Linguipedia codeFest Natural Language Processing</a>
+* <a href="https://github.com/kcostya/hackathons-solutions/tree/master/innoplexus">Innoplexus Online Hiring Hackathon - Aug, 2018</a><br>
+* <a href="https://github.com/kcostya/hackathons-solutions/tree/master/linguipedia">Linguipedia codeFest Natural Language - Aug, 2018 Processing</a><br>
 ![ODS stickers](https://github.com/kcostya/hackathons-solutions/blob/master/tag_hackathon.png)
