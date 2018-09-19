@@ -5,7 +5,7 @@ Innoplexus Online Hackathon was an opportunity to solve a real-world business pr
 face looking for data-driven solutions for faster, empowered and inspired decision making.
 https://datahack.analyticsvidhya.com/contest/innoplexus-online-hiring-hackathon-ai-challenge/
 
-#### LB 55 of 177: ROC AUC 0.7017
+#### <b>55th</b> of 177: ROC AUC 0.7017
 
 ### The <a href='https://github.com/kcostya/hackathons/blob/master/innoplexus/solution.ipynb'>solution</a> includes:
 1. Data Preparation.
