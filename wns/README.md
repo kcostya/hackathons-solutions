@@ -4,4 +4,5 @@ WNS Analytics Wizard 2018 is a one-of-its-kind online analytics hackathon that g
 https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018/
 ### HR Analytics: predicting employee promotion
 **9th of 1200:** F1-score 0.5293
+
 <a href=https://github.com/kcostya/hackathons-solutions/blob/master/wns/wns-solution-notebook.ipynb>Solution code (Jupyter Notebook)</a>
